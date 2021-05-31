@@ -1,17 +1,35 @@
-### Hi there 👋 I'm Vaibhav
+<h1 align="center">Hi 👋, I'm Vaibhav</h1>
+<h3 align="center"> BCA Student</h3>
 
-- 🔭 I’m currently working on personal projects.
-- 🌱 I’m currently learning Python and Django Framework.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about java.
-- 🏫 Student at Kamal Institute OF Higher Education And Advanced Technology.
--->
-## Languages
- - Java 
- - Html
- - Css
-## Tools
-  - Netbeans
-  -  Dreamweaver
-  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavtomar04&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavtomar04" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavtomar04" alt="vaibhavtomar04" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/vaibhav_041" target="blank"><img src="https://img.shields.io/twitter/follow/vaibhav_041?logo=twitter&style=for-the-badge" alt="vaibhav_041" /></a> </p>
+
+- 🔭 I’m currently working on **personal project**
+
+- 🌱 I’m currently learning **Python and Django Framework.**
+
+- 💬 Ask me about **Java**
+
+- 📫 How to reach me **vaibhavtomar4119@gmail.com**
+
+- 🏫 Student at **Kamal Institute OF Higher Education And Advanced Technology**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/vaibhav_041" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="vaibhav_041" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vaibhav-tomar-319059207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-tomar-319059207/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavtomar04&show_icons=true&locale=en&layout=compact" alt="vaibhavtomar04" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavtomar04&show_icons=true&locale=en" alt="vaibhavtomar04" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavtomar04&" alt="vaibhavtomar04" /></p>
+
  
