@@ -14,5 +14,4 @@
   - Netbeans
   -  Dreamweaver
   
- ## Connect with me
-    - https://twitter.com/Vaibhav_041
+ 
